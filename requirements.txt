@@ -1,0 +1,3 @@
+jupyterlab
+tensorflow-gpu
+pyod
